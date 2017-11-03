@@ -1,0 +1,108 @@
+~~~~~TEST 1~~~~~
+Reference string: 7,0,1,2,0,3,0,4,2,3,0,3,0,3,2,1,2,0,1,7,0,1
+Frame size: 3
+FIFO START: 
+Page Hits: 7
+Page Faults: 15
+---FIFO END---
+LRU START: 
+Page Hits: 8
+Page Faults: 14
+---LRU END---
+OPT START: 
+Page Hits: 13
+Page Faults: 9
+---OPT END---
+CLOCK START: 
+Page Hits: 11
+Page Faults: 11
+---CLOCK END---
+~~~~~END TEST 1~~~~~
+ 
+~~~~~TEST 2~~~~~
+Reference string: 7,0,1,2,0,3,0,4,2,3,0,3,0,3,2,1,2,0,1,7,0,1
+Frame size: 4
+FIFO START: 
+Page Hits: 12
+Page Faults: 10
+---FIFO END---
+LRU START: 
+Page Hits: 14
+Page Faults: 8
+---LRU END---
+OPT START: 
+Page Hits: 14
+Page Faults: 8
+---OPT END---
+CLOCK START: 
+Page Hits: 14
+Page Faults: 8
+---CLOCK END---
+~~~~~END TEST 2~~~~~
+ 
+~~~~~TEST 3~~~~~
+Reference string: 7,0,1,2,0,3,0,4,2,3,0,3,0,3,2,1,2,0,1,7,0,1
+Frame size: 5
+FIFO START: 
+Page Hits: 13
+Page Faults: 9
+---FIFO END---
+LRU START: 
+Page Hits: 15
+Page Faults: 7
+---LRU END---
+OPT START: 
+Page Hits: 15
+Page Faults: 7
+---OPT END---
+CLOCK START: 
+Page Hits: 15
+Page Faults: 7
+---CLOCK END---
+~~~~~END TEST 2~~~~~
+ 
+LRU START: 
+Page Hits: 10
+Page Faults: 12
+---LRU END---
+,3,0,9,3,8,9
+Frame size: 3
+FIFO START: 
+Page Hits: 6
+Page Faults: 14
+---FIFO END---
+LRU START: 
+Page Hits: 5
+Page Faults: 15
+---LRU END---
+OPT START: 
+Page Hits: 9
+Page Faults: 11
+---OPT END---
+CLOCK START: 
+Page Hits: 4
+Page Faults: 16
+---CLOCK END---
+~~~~~END TEST 4~~~~~
+ 
+~~~~~TEST 5~~~~~
+Reference string: 7,0,1,2,0,3,0,4,2,3,0,3,0,3,2,1,2,0,1,7,0,1
+Frame size: 3
+FIFO START: 
+Page Hits: 7
+Page Faults: 15
+---FIFO END---
+LRU START: 
+Page Hits: 10
+Page Faults: 12
+---LRU END---
+OPT START: 
+Page Hits: 13
+Page Faults: 9
+---OPT END---
+CLOCK START: 
+Page Hits: 11
+Page Faults: 11
+---CLOCK END---
+~~~~~END TEST 5~~~~~
+ 

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Geiger_Patrick_PageReplacementAlgorithms:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Geiger_Patrick_PageReplacementAlgorithms_jar</output-path>
+    <root id="archive" name="Geiger_Patrick_PageReplacementAlgorithms.jar">
+      <element id="module-output" name="Geiger_Patrick_PageReplacementAlgorithms" />
+    </root>
+  </artifact>
+</component>
